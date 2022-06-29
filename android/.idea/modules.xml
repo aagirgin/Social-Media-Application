@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1348000692/android.firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/1348000692/android.firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1119220614/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1119220614/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-722512594/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-722512594/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/350989632/android.firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/350989632/android.firebase_crashlytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1998992338/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-1998992338/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/726400589/android.google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/726400589/android.google_sign_in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-918189608/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-918189608/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/376911842/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/376911842/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1283553665/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-1283553665/android.shared_preferences.iml" />
+    </modules>
+  </component>
+</project>
